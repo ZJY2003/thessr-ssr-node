@@ -1,3 +1,6 @@
 mod:
-  nodeId: 76
-  key: Zjyzjy2003
+  nodeId: NODEID
+  key: KEY
+v2ray:
+  alterId: ALTERID
+  tag: proxy
